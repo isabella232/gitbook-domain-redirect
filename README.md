@@ -1,0 +1,1 @@
+# gitbook-domain-redirect
